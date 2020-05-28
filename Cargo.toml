@@ -3,7 +3,7 @@
 [dependencies]
 
 [package]
-name = "hello"
+name = "sadnessOjisan_hello"
 version = "0.0.1"
 authors = ["sadnessOjisan<sadness.ojisan@gmail.com>"]
 license = "MIT OR Apache-2.0"
